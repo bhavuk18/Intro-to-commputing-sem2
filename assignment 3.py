@@ -1,5 +1,5 @@
-#Name  : Navodit Gupta
-#SID   : 21107082
+#Name  : Bhavuk 
+#SID   : 21107073
 #Branch: Mechanical
 import math
 
