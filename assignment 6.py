@@ -1,6 +1,6 @@
 #Assignment 6
-#Name: Navodit Gupta
-#SID : 21107082
+#Name: Bhavuk Sindhwani
+#SID : 21107073
 #Branch: Mechanical
 
 print("Q1")
@@ -85,9 +85,9 @@ print("Q7")
 class Student:
     pass
 Navodit = Student()
-Navodit.name = "Navodit"
-print(Navodit)
-print(Navodit.name)
+Navodit.name = "Bhavuk"
+print(Bhavuk)
+print(Bhavuk.name)
 
 class Marks:
     pass
